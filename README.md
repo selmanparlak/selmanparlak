@@ -28,5 +28,7 @@
 <a href="https://www.hackerrank.com/selmanparlak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="selmanparlak" height="30" width="40" /></a>
 <a href="https://discord.com/users/502553477856362497" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="502553477856362497" height="30" width="40" /></a>
 </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selmanparlak&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="selmanparlak" /></p>
-<a href="http://www.github.com/selmanparlak"><img src="https://github-readme-stats.vercel.app/api?username=selmanparlak&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="selmanparlak's GitHub stats" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selmanparlak&show_icons=true&theme=tokyonight&locale=en" alt="selmanparlak" /></p>
+
