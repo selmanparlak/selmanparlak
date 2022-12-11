@@ -18,7 +18,7 @@
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 </p>
 
-🤝  I'm open to collaborating on Futter projects
+🤝  I'm open to collaborating on Flutter projects
 
 ### Socials
 
